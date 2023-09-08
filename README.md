@@ -1,8 +1,5 @@
 # Phone_Analysis_Power_BI
 
-![image](https://github.com/xtrahue/Phone_Analysis_Power_BI/assets/108055347/d23c39e2-01ab-4616-850f-698c63b3e67c)
-
-
 Mobile Phone Data Analysis Project:
 
 Leveraged Power BI to analyze extensive mobile phone data, extracting valuable insights into user behavior, preferences, and market trends.
@@ -16,3 +13,6 @@ Impactful Business Insights:
 
 Transformed raw mobile phone data into actionable insights, leading to improved product development, targeted marketing campaigns, and enhanced customer experiences.
 Collaborated with cross-functional teams to implement data-driven strategies, resulting in measurable business growth and a competitive edge in the mobile phone industry.
+
+
+![image](https://github.com/xtrahue/Phone_Analysis_Power_BI/assets/108055347/e4ba4df3-5ab3-4549-8db3-91f58de6cf49)
